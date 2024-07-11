@@ -6,7 +6,7 @@
 ### <div align="center">I'm Umair Ahmad, a full-time full-stack  developer 👨‍💻 working  since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/Umair-A/keeper-app)  
+- 🔭 I’m currently working on [Freya AI a chrome extension](https://github.com/muqsitnawaz/freya)  
   
 
 - 🌱 I’m currently learning Mongodb and NodeJS  
